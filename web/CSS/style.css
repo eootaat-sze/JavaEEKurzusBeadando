@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(16, 221, 242);
+    font-family: Roboto;
+}
+
+#main {
+    width: 1000px;
+    height: auto;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+#todoTable th {
+    border: none;
+}
+
+#deleteBtn {
+    margin-left: 250px;
+    margin-right: 10px;
+}
